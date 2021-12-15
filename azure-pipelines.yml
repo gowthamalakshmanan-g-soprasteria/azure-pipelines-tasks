@@ -3,6 +3,10 @@ trigger:
 - releases/*
 - node6hotfixes/*
 
+pool:
+ name: Azure Pipelines
+
+
 resources:
   repositories:
   - repository: AzureDevOps

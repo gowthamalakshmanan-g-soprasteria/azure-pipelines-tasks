@@ -4,8 +4,7 @@ trigger:
 - node6hotfixes/*
 
 pool:
- name: Azure Pipelines
-
+  name: Azure Pipelines
 
 resources:
   repositories:
